@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ChemSJCE/static/css/main.0ec3da05.css",
+    "main.js": "/ChemSJCE/static/js/main.ef6296d6.js",
+    "static/media/11.png": "/ChemSJCE/static/media/11.d3c4e577165a41f575e8.png",
+    "static/media/06.jpeg": "/ChemSJCE/static/media/06.d7524f45c6a442775332.jpeg",
+    "static/media/02.jpeg": "/ChemSJCE/static/media/02.5edce82090b2677834a8.jpeg",
+    "static/media/cisco.png": "/ChemSJCE/static/media/cisco.64fd65c5146ce9ef5d25.png",
+    "static/media/05.jpeg": "/ChemSJCE/static/media/05.44877bb8fa4ffad83360.jpeg",
+    "static/media/01.jpeg": "/ChemSJCE/static/media/01.6bd5630028da9547b6e2.jpeg",
+    "static/media/07.png": "/ChemSJCE/static/media/07.eeb6dc1b6b329081c76f.png",
+    "static/media/03.jpeg": "/ChemSJCE/static/media/03.9ea4630e1856f12a7608.jpeg",
+    "static/media/12.jpeg": "/ChemSJCE/static/media/12.c0f392c5cfb9e7ab6596.jpeg",
+    "static/media/13.jpeg": "/ChemSJCE/static/media/13.b4db3a3de55f45453fee.jpeg",
+    "static/media/avasoft.png": "/ChemSJCE/static/media/avasoft.907a2c84c85cdde7c268.png",
+    "static/media/accenture.png": "/ChemSJCE/static/media/accenture.8082a4b7dc047f0fc408.png",
+    "static/media/09.jpeg": "/ChemSJCE/static/media/09.2efa99f6ff7495fcee7d.jpeg",
+    "static/media/bus.jpg": "/ChemSJCE/static/media/bus.3cdfdd762da045dfce1f.jpg",
+    "static/media/10.jpeg": "/ChemSJCE/static/media/10.bc618968e8954e5db743.jpeg",
+    "static/media/wipro.png": "/ChemSJCE/static/media/wipro.3157467e6aeb1b688988.png",
+    "static/media/post.jpeg": "/ChemSJCE/static/media/post.d19c4ac9a28df69075e1.jpeg",
+    "static/media/04.jpeg": "/ChemSJCE/static/media/04.81c94ffa872e60289885.jpeg",
+    "static/media/08.jpeg": "/ChemSJCE/static/media/08.1ba87783c836424ad309.jpeg",
+    "static/media/food.png": "/ChemSJCE/static/media/food.4b32153b0da9cbb35e1b.png",
+    "static/media/14.jpeg": "/ChemSJCE/static/media/14.43b5b26dd87f91d23f50.jpeg",
+    "static/media/cognizant.png": "/ChemSJCE/static/media/cognizant.397dd770c1dcbea73f72.png",
+    "static/media/mindtree.png": "/ChemSJCE/static/media/mindtree.d55875fdec37d3afc459.png",
+    "static/media/adobe.png": "/ChemSJCE/static/media/adobe.d41725c3e13f080f6fee.png",
+    "static/media/zoho.png": "/ChemSJCE/static/media/zoho.a4800c71e2197a1ef657.png",
+    "index.html": "/ChemSJCE/index.html",
+    "main.0ec3da05.css.map": "/ChemSJCE/static/css/main.0ec3da05.css.map",
+    "main.ef6296d6.js.map": "/ChemSJCE/static/js/main.ef6296d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ec3da05.css",
+    "static/js/main.ef6296d6.js"
+  ]
+}
